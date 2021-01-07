@@ -1,0 +1,7 @@
+<HTML>
+<HEAD>
+<TITLE>Cozzinn-A place for all u want</TITLE>
+</HEAD>
+<BODY background colour:red>
+</BODY>
+</HTML>
